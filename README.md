@@ -39,6 +39,6 @@ Comming Soon:
 
 # Courses
 
-## AI Bootcamp
+## 8-Week AI Bootcamp by Business Science
 
-We are launching a new Generative AI Bootcamp that covers end-to-end AI application development and deployment. [Find out more about our free training here.](https://learn.business-science.io/registration-ai-workshop-2) 
+We are launching a new Generative AI Bootcamp that covers end-to-end AI application development and deployment. [Find out more about how to build AI with Python, and attend our free training session here.](https://learn.business-science.io/registration-ai-workshop-2)
