@@ -1,8 +1,17 @@
 # Awesome Generative AI
 
-A curated list of resources for generative AI development. pecifically focusing on GenAI libraries in Python for developers.
+A curated list of resources to help you become a GenAI Engineer, GenAI Architect, and GenAI Developer. This repository covers: 
 
-# Python
+- Python Libraries for GenAI
+
+Comming Soon:
+
+- Communities
+- Social
+- Books
+- Courses
+
+# Python Libraries for GenAI
 
 ## AI LLM Frameworks
 
@@ -19,3 +28,17 @@ A curated list of resources for generative AI development. pecifically focusing 
 - [Pinecone](https://github.com/pinecone-io/pinecone-python-client): The official Pinecone Python SDK.
 - [Milvus](https://github.com/milvus-io/milvus): Milvus is an open-source vector database built to power embedding similarity search and AI applications. 
 
+## LLM Models
+
+- [OpenAI](https://github.com/openai/openai-python): The official Python library for the OpenAI API
+- [Hugging Face Models](https://huggingface.co/models): Open LLM models by Meta, Mistral, and hundreds of other providers
+- [Anthropic Claude SDK](https://github.com/anthropics/anthropic-sdk-python): The official Python library for the Anthropic API
+- [Meta Llama Models](https://llama.meta.com/): The open source AI model you can fine-tune, distill and deploy anywhere.
+- [Ollama](https://github.com/ollama/ollama): Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [Grok](https://github.com/groq/groq-python): The official Python Library for the Groq API
+
+# Courses
+
+## AI Bootcamp
+
+We are launching a new Generative AI Bootcamp that covers end-to-end AI application development and deployment. [Find out more about our free training here.](https://learn.business-science.io/registration-ai-workshop-2) 
