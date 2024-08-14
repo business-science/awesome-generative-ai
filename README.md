@@ -27,6 +27,7 @@ Comming Soon:
 - [Hugging Face Models](https://huggingface.co/models): Open LLM models by Meta, Mistral, and hundreds of other providers
 - [Anthropic Claude SDK](https://github.com/anthropics/anthropic-sdk-python): The official Python library for the Anthropic API
 - [Meta Llama Models](https://llama.meta.com/): The open source AI model you can fine-tune, distill and deploy anywhere.
+- [Google Gemini](https://github.com/google-gemini/generative-ai-python): The official Python library for the Google Gemini API
 - [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
 - [Grok](https://github.com/groq/groq-python): The official Python Library for the Groq API
 
