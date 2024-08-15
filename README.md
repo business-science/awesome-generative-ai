@@ -1,12 +1,14 @@
 # Awesome Generative AI (LLMs)
 
+**NOTE** - This is a work in progress. Changes and additions are welcome. Please use Pull Requests to suggest modifications and improvements. 
+
 A curated list of resources to help you become a GenAI Engineer, GenAI Architect, and GenAI Developer. This repository covers: 
 
-- Python Libraries for GenAI
+- Python Libraries (GenAI and LLMs)
+- Projects (GenAI and LLMs)
 
 Comming Soon:
 
-- Projects in GenAI
 - Courses
 - Communities
 - Social
