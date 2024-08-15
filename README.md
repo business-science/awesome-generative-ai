@@ -27,18 +27,26 @@ Comming Soon:
 
 - [OpenAI](https://github.com/openai/openai-python): The official Python library for the OpenAI API
 - [Hugging Face Models](https://huggingface.co/models): Open LLM models by Meta, Mistral, and hundreds of other providers
-- [Anthropic Claude SDK](https://github.com/anthropics/anthropic-sdk-python): The official Python library for the Anthropic API
+- [Anthropic Claude](https://github.com/anthropics/anthropic-sdk-python): The official Python library for the Anthropic API
 - [Meta Llama Models](https://llama.meta.com/): The open source AI model you can fine-tune, distill and deploy anywhere.
 - [Google Gemini](https://github.com/google-gemini/generative-ai-python): The official Python library for the Google Gemini API
 - [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
 - [Grok](https://github.com/groq/groq-python): The official Python Library for the Groq API
 
-## Vector Databases
+## Vector Databases (RAG)
 
 - [ChromaDB](https://github.com/chroma-core/chroma): The fastest way to build Python or JavaScript LLM apps with memory!
 - [FAISS](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 - [Pinecone](https://github.com/pinecone-io/pinecone-python-client): The official Pinecone Python SDK.
 - [Milvus](https://github.com/milvus-io/milvus): Milvus is an open-source vector database built to power embedding similarity search and AI applications. 
+
+# LLM Deployment (Cloud Services)
+
+- [AWS Bedrock](https://aws.amazon.com/bedrock/)
+- [Microsoft Azure AI Services](https://azure.microsoft.com/en-us/products/ai-services)
+- [Google Vertex AI](https://cloud.google.com/vertex-ai)
+- [NVIDIA NIM](https://www.nvidia.com/en-us/ai)
+
 
 # Projects (GenAI and LLMs)
 
@@ -49,6 +57,12 @@ Comming Soon:
 - [Llama Index Examples](https://github.com/run-llama/llama_index/tree/main/docs/docs/examples): Example code for building applications with Llama Index
 - [Streamlit LLM Examples](https://github.com/streamlit/llm-examples): Streamlit LLM app examples for getting started
 
+## Cloud Examples:
+
+- [Azure Generative AI Examples](https://github.com/Azure/azureml-examples/tree/main/sdk/python/generative-ai): Prompt Flow and RAG Examples for use with the Microsoft Azure Cloud platform
+- [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
+- [Google Vertex AI Examples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)
+- [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere)
 
 # Courses (GenAI and LLMs)
 
