@@ -44,10 +44,10 @@ Comming Soon:
 
 # LLM Deployment (Cloud Services)
 
-- [AWS Bedrock](https://aws.amazon.com/bedrock/)
-- [Microsoft Azure AI Services](https://azure.microsoft.com/en-us/products/ai-services)
-- [Google Vertex AI](https://cloud.google.com/vertex-ai)
-- [NVIDIA NIM](https://www.nvidia.com/en-us/ai)
+- [AWS Bedrock](https://aws.amazon.com/bedrock/): Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon
+- [Microsoft Azure AI Services](https://azure.microsoft.com/en-us/products/ai-services): Azure AI services help developers and organizations rapidly create intelligent, cutting-edge, market-ready, and responsible applications with out-of-the-box and prebuilt and customizable APIs and models. 
+- [Google Vertex AI](https://cloud.google.com/vertex-ai): Vertex AI is a fully-managed, unified AI development platform for building and using generative AI.
+- [NVIDIA NIM](https://www.nvidia.com/en-us/ai): NVIDIA NIM™, part of NVIDIA AI Enterprise, provides containers to self-host GPU-accelerated inferencing microservices for pretrained and customized AI models across clouds, data centers, and workstations.
 
 
 # Projects (GenAI and LLMs)
