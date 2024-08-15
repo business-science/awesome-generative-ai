@@ -2,8 +2,9 @@
 
 **NOTE** - This is a work in progress. Changes and additions are welcome. Please use Pull Requests to suggest modifications and improvements. 
 
-A curated list of resources to help you become a Generative AI (GenAI) Developer. This repository includes resources on building GenAI applications with Large Language Models (LLMs), and deploying LLMs and GenAI with Cloud-based solutions:
+A curated list of resources to help you become a Generative AI (GenAI) Developer. This repository includes resources on building GenAI applications with Large Language Models (LLMs), and deploying LLMs and GenAI with Cloud-based solutions.
 
+## Contents:
 
 - [Python Libraries (GenAI and LLMs)](#python-libraries-genai-and-llms)
 - [Projects (GenAI and LLMs)](#llm-deployment-cloud-services)
