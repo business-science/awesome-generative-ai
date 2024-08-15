@@ -1,15 +1,16 @@
-# Awesome Generative AI (LLMs)
+# Awesome Generative AI (LLMs) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 **NOTE** - This is a work in progress. Changes and additions are welcome. Please use Pull Requests to suggest modifications and improvements. 
 
-A curated list of resources to help you become a GenAI Engineer, GenAI Architect, and GenAI Developer. This repository covers: 
+A curated list of resources to help you become a Generative AI (GenAI) Developer. This repository includes resources on building GenAI applications with Large Language Models (LLMs), and deploying LLMs and GenAI with Cloud-based solutions:
 
-- Python Libraries (GenAI and LLMs)
-- Projects (GenAI and LLMs)
+
+- [Python Libraries (GenAI and LLMs)](#python-libraries-genai-and-llms)
+- [Projects (GenAI and LLMs)](#llm-deployment-cloud-services)
+- [Courses](#courses-genai-and-llms)
 
 Comming Soon:
 
-- Courses
 - Communities
 - Social
 - Books
@@ -60,12 +61,14 @@ Comming Soon:
 ## Cloud Examples:
 
 - [Azure Generative AI Examples](https://github.com/Azure/azureml-examples/tree/main/sdk/python/generative-ai): Prompt Flow and RAG Examples for use with the Microsoft Azure Cloud platform
-- [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop)
-- [Google Vertex AI Examples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)
-- [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere)
+- [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop): Introduces how to leverage foundation models (FMs) through Amazon Bedrock
+- [Google Vertex AI Examples](https://github.com/GoogleCloudPlatform/vertex-ai-samples): Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI
+- [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere): An entrypoint for developing with NIMs that natively scales out to full-sized labs and up to production environments.
+- [NVIDIA NIM Deploy](https://github.com/NVIDIA/nim-deploy): Reference implementations, example documents, and architecture guides that can be used as a starting point to deploy multiple NIMs and other NVIDIA microservices into Kubernetes and other production deployment environments.
+
 
 # Courses (GenAI and LLMs)
 
 ## 8-Week AI Bootcamp by Business Science
 
-We are launching a new Generative AI Bootcamp that covers end-to-end AI application development and deployment. [Find out more about how to build AI with Python, and attend our free AI training session here.](https://learn.business-science.io/registration-ai-workshop-2)
+We are launching a new Generative AI Bootcamp that covers end-to-end AI application development and Cloud deployment. [Find out more about how to build AI with Python, and attend our free AI training session here.](https://learn.business-science.io/registration-ai-workshop-2)
