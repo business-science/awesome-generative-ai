@@ -70,6 +70,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
   - [Microsoft Azure](#microsoft-azure)
   - [Google Cloud Platform (GCP)](#google-cloud-platform-gcp)
   - [NVIDIA](#nvidia)
+  - [Snowflake](#snowflake)
 - [Newsletters](#newsletters)
 - [Courses and Training](#courses-and-training)
   - [Free Training](#free-training)
@@ -444,6 +445,14 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 |-------------|------------------|-----------|
 | [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere) | An entry point for developing with NIMs that natively scales out to full-sized labs and up to production environments. | [GitHub](https://github.com/NVIDIA/nim-anywhere) |
 | [NVIDIA NIM Deploy](https://github.com/NVIDIA/nim-deploy) | Reference implementations, example documents, and architecture guides that can be used as a starting point to deploy multiple NIMs and other NVIDIA microservices into Kubernetes and other production deployment environments. | [GitHub](https://github.com/NVIDIA/nim-deploy) |
+
+## Snowflake
+
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [Cortex AI](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai/index.html#0) | Quickstart Guide to Snowflake Cortex AI | [Snowflake](https://quickstarts.snowflake.com/guide/getting-started-with-snowflake-cortex-ai/index.html#0) |
+| [Cortex Agents](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_agents/index.html#0) | Quickstart Guide to develop and deploy Agents in Snowflake | [Snowflake](https://quickstarts.snowflake.com/guide/getting_started_with_cortex_agents/index.html#0) |
+| [Snowflake AI Toolkit](https://github.com/Snowflake-Labs/Snowflake-AI-Toolkit) | Open Source Snowflake AI Toolkit | [Github](https://github.com/Snowflake-Labs/Snowflake-AI-Toolkit) |
 
 # Newsletters
 
