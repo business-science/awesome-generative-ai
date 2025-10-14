@@ -114,6 +114,8 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [WrenAI](https://getwren.ai/oss) | Open-source GenBI AI Agent. Text2SQL made Easy! | [Documentation](https://docs.getwren.ai/oss/overview/introduction) \| [GitHub](https://github.com/Canner/WrenAI) |
 | [Google GenAI Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) | Gen AI Toolbox for Databases is an open-source server that makes it easier to build Gen AI tools for interacting with databases. | [Blog](https://cloud.google.com/blog/products/ai-machine-learning/announcing-gen-ai-toolbox-for-databases-get-started-today) \| [Documentation](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) \| [GitHub](https://github.com/googleapis/genai-toolbox) |
 | [Vanna AI](https://vanna.ai/) | The fastest way to get actionable insights from your SQL database just by asking questions. | [Documentation](https://vanna.ai/docs/) \| [GitHub](https://github.com/vanna-ai/vanna) |
+| [GenoTEX](https://liu-hy.github.io/GenoTEX/) | An LLM agent benchmark for automated gene expression data analysis, providing expert-curated annotations for dataset selection, preprocessing, and statistical analysis. | [Paper](https://arxiv.org/abs/2406.15341) \| [Website](https://liu-hy.github.io/GenoTEX/) \| [GitHub](https://github.com/Liu-Hy/GenoTEX) |
+| [GenoMAS](https://liu-hy.github.io/GenoMAS/) | A multi-agent framework for scientific discovery via code-driven gene expression analysis, integrating structured workflows with autonomous agent adaptability. | [Paper](https://arxiv.org/abs/2507.21035) \| [Website](https://liu-hy.github.io/GenoMAS/) \| [GitHub](https://github.com/Liu-Hy/GenoMAS) |
 
 ## Coding Agents
 
