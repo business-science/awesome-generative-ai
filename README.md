@@ -287,6 +287,10 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Agentarium](https://github.com/Thytu/Agentarium) | Open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, learn, and evolve. | [GitHub](https://github.com/Thytu/Agentarium) |
 | [AutoGen AgentChat](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/quickstart.html) | Build applications quickly with preset agents. | [Documentation](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/quickstart.html) |
 | [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | [Documentation](https://google.github.io/adk-docs/) \| [GitHub](https://github.com/google/adk-python) |
+| [Gempix2 (Nano Banana 2)](https://gempix2.site) | Free platform using Gempix2 model for image generation and AI editing. | [Documentation](https://gempix2.site/) |
+
+
+
 
 ## Agents and Tools (Prebuilt)
 
