@@ -312,6 +312,8 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Agenta](https://github.com/Agenta-AI/agenta) | Open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place. | [Documentation](https://docs.agenta.ai/) |
 | [LLMOps](https://github.com/callmesora/llmops-python-package) | Best practices designed to support your LLMOps initiatives. | [GitHub](https://github.com/callmesora/llmops-python-package) |
 | [Helicone](https://www.helicone.ai/) | Open-source LLM observability platform for developers to monitor, debug, and improve production-ready applications. | [Documentation](https://docs.helicone.ai/) \| [GitHub](https://github.com/Helicone/helicone) |
+| [Rhesis](https://github.com/rhesis-ai/rhesis) | Collaborative agent testing for teams
+ | [Documentation](https://docs.rhesis.ai/) \| [GitHub](https://github.com/rhesis-ai/rhesis) |
 
 ## Code Sandbox (Security)
 
