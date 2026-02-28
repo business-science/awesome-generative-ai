@@ -88,6 +88,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Nir Diamant GenAI Agents Hub](https://github.com/NirDiamant/GenAI_Agents) | Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. A comprehensive guide for building intelligent, interactive AI systems. | [GitHub](https://github.com/NirDiamant/GenAI_Agents) |
 | [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub/tree/main) | Real-world AI agent applications, LLM and RAG tutorials, with examples to implement. | [GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main) |
 | [StockChat](https://github.com/clchinkc/stockchat) | An open-source alternative to Perplexity Finance. | [GitHub](https://github.com/clchinkc/stockchat) |
+| [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) | Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization. | [GitHub](https://github.com/shmlkv/dna-claude-analysis) |
 
 # Python Libraries
 
