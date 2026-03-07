@@ -355,6 +355,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
 | [LLM tools for R](https://luisdva.github.io/llmsr-book/r-pkgs.html) | An ongoing roundup of useful developments in the LLM/genAI space, with a specific focus on R. | [Website](https://luisdva.github.io/llmsr-book/r-pkgs.html) |
+| [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) | A curated diagnostic map of common LLM, RAG, and AI agent failures, providing structured explanations and practical fixes for debugging real-world AI systems. | [GitHub](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) |
 
 ## Ellmer-Verse
 
