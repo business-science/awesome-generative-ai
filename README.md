@@ -347,6 +347,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) | Full toolkit for running an AI agent service built with LangGraph, FastAPI, and Streamlit. | [App](https://agent-service-toolkit.streamlit.app/) \| [GitHub](https://github.com/JoshuaC215/agent-service-toolkit) |
 | [Microsoft Tiny Troupe](https://github.com/microsoft/TinyTroupe) | LLM-powered multiagent persona simulation for imagination enhancement and business insights. | [GitHub](https://github.com/microsoft/TinyTroupe) |
 | [Distributed Llama](https://github.com/b4rtaz/distributed-llama) | Connect home devices into a powerful cluster to accelerate LLM inference. | [GitHub](https://github.com/b4rtaz/distributed-llama) |
+| [Bifrost](https://getmaxim.ai/bifrost) | The fastest LLM gateway with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. | [GitHub](https://github.com/maximhq/bifrost) |
 
 # R Libraries
 
