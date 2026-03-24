@@ -120,6 +120,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
 | [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | A framework for developing LLM applications based on the instruction following, tool usage, planning, and memory capabilities of Qwen. It also comes with example applications such as Browser Assistant, Code Interpreter, and Custom Assistant. | [Documentation](https://github.com/QwenLM/Qwen-Agent/tree/main/docs) \| [Examples](https://github.com/QwenLM/Qwen-Agent/tree/main/examples) \| [GitHub](https://github.com/QwenLM/Qwen-Agent) |
+| [claw-army/claude-node](https://github.com/claw-army/claude-node) | Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json. | [GitHub](https://github.com/claw-army/claude-node) |
 
 ## Deep Research Agents
 
