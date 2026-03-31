@@ -451,6 +451,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 |-----------------|------------------|-----------|
 | [Python AI/ML Tips](https://github.com/business-science/free-ai-tips) | Free newsletter on Generative AI and Data Science. | [GitHub](https://github.com/business-science/free-ai-tips) |
 | [unwind ai](https://www.theunwindai.com/) | Latest AI news, tools, and tutorials for AI Developers. | [Website](https://www.theunwindai.com/) |
+| [Techpresso](https://dupple.com/techpresso) | Free daily AI & tech newsletter read by 200,000+ subscribers. | [Website](https://dupple.com/techpresso) |
 
 # Courses and Training
 
