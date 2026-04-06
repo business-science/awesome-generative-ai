@@ -13,6 +13,7 @@
 
 > The Future is using AI and ML Together
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code including data analysis, automated research, and multi-agent coordination. MIT licensed.
 ## 🚀🚀 100+ Free Resources On Generative AI for Data Scientists
 
 A curated list of 100+ resources to help you become a Generative AI Data Scientist. This repository includes resources on building GenAI Data Science applications with Large Language Models (LLMs) and deploying LLMs and Generative AI/ML with Cloud-based solutions.
