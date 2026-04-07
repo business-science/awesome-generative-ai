@@ -294,6 +294,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 |-------------|------------------|-----------|
 | [Agno (Formerly Phidata)](https://www.agno.com/) | An open-source platform to build, ship and monitor agentic systems. | [Documentation](https://docs.agno.com/) \| [GitHub](https://github.com/agno-agi/agno) |
 | [Composio](https://composio.dev/) | Integration Platform for AI Agents & LLMs (works with LangChain, CrewAI, etc). | [Documentation](https://docs.composio.dev/) \| [GitHub](https://github.com/ComposioHQ/composio) |
+| [RemoteOpenClaw](https://remoteopenclaw.com) | Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent capabilities. | [Website](https://remoteopenclaw.com) |
 
 ## LLM Memory
 
