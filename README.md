@@ -289,6 +289,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | [Documentation](https://google.github.io/adk-docs/) \| [GitHub](https://github.com/google/adk-python) |
 
 ## Agents and Tools (Prebuilt)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
