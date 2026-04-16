@@ -199,6 +199,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [LangMem](https://github.com/langchain-ai/langmem) | LangMem provides tooling to extract important information from conversations, optimize agent behavior through prompt refinement, and maintain long-term memory. | [GitHub](https://github.com/langchain-ai/langmem) |
 | [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor) | A Python library for creating hierarchical multi-agent systems using LangGraph. | [GitHub](https://github.com/langchain-ai/langgraph-supervisor) |
 | [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | An open-source assistant that automates research and produces customizable reports on any topic. | [GitHub](https://github.com/langchain-ai/open_deep_research) |
+| [8bitconcepts Research](https://8bitconcepts.com/) | AI research paper summaries and analysis. Distills complex AI/ML papers into actionable insights for engineers and data scientists. RSS feed, newsletter, API. | [Papers](https://8bitconcepts.com/) \| [RSS](https://8bitconcepts.com/feed.xml) |
 | [LangGraph Reflection](https://github.com/langchain-ai/langgraph-reflection) | This prebuilt graph is an agent that uses a reflection-style architecture to check and improve an initial agent's output. | [GitHub](https://github.com/langchain-ai/langgraph-reflection) |
 | [LangGraph Big Tool](https://github.com/langchain-ai/langgraph-bigtool) | Create LangGraph agents that can access large numbers of tools. | [GitHub](https://github.com/langchain-ai/langgraph-bigtool) |
 | [LangGraph CodeAct](https://github.com/langchain-ai/langgraph-codeact) | This library implements the CodeAct architecture in LangGraph. This architecture is used by Manus.im. | [GitHub](https://github.com/langchain-ai/langgraph-codeact) |
@@ -276,6 +277,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [ScrapeGraphAI](https://scrapegraphai.com/) | A web scraping Python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, Markdown, etc.). | [Documentation](https://docs.scrapegraphai.com/) \| [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python. | [GitHub](https://github.com/D4Vinci/Scrapling) |
 | [Firecrawl](https://www.firecrawl.dev/) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, and extract with a single API. | [Documentation](https://docs.firecrawl.dev/) \| [GitHub](https://github.com/mendableai/firecrawl) |
+| [Not Human Search](https://nothumansearch.ai/) | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, structured data, and MCP endpoints. Free, no auth required. | [API Docs](https://nothumansearch.ai/docs) \| [Report](https://nothumansearch.ai/report) |
 
 ## Agents and Tools (Build Your Own)
 
