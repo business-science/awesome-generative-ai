@@ -149,6 +149,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Google GenAI](https://googleapis.github.io/python-genai/) | Google Gen AI Python SDK provides an interface for developers to integrate Google’s generative models into their Python applications. | [Documentation](https://googleapis.github.io/python-genai/) \| [GitHub](https://github.com/googleapis/python-genai) |
 | [AutoAgent](https://github.com/HKUDS/AutoAgent) | A fully-automated and highly self-developing framework that enables users to create and deploy LLM agents through natural language alone. | [GitHub](https://github.com/HKUDS/AutoAgent) |
 | [Legion](https://legion.llmp.io/) | A flexible and provider-agnostic framework designed to simplify the creation of sophisticated multi-agent systems. | [Documentation](https://legion.llmp.io/docs) \| [GitHub](https://github.com/LLMP-io/Legion) |
+| [grugbot420](https://github.com/grug-group420/grugbot420) | A neuromorphic cognitive engine in Julia for multi-model AI orchestration. Deploys domain-expert AI specimens through architectural configuration rather than traditional training. | [GitHub](https://github.com/grug-group420/grugbot420) |
 
 ## AI Frameworks (Drag and Drop)
 
