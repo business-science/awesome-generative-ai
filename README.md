@@ -302,6 +302,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Mem0](https://mem0.ai/) | Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users. | [Documentation](https://docs.mem0.ai/) \| [GitHub](https://github.com/mem0ai/mem0) |
 | [Memary](https://github.com/kingjulio8238/Memary) | Open Source Memory Layer For Autonomous Agents. | [GitHub](https://github.com/kingjulio8238/Memary) |
 | [Memobase](https://www.memobase.io/) | 1st User Profile-Based Memory for GenAI Apps. | [Documentation](https://docs.memobase.io/introduction) \| [GitHub](https://github.com/memodb-io/memobase) |
+| [Dakera](https://github.com/dakera-ai/dakera-deploy) | Production-ready persistent memory layer for AI agents: hybrid BM25 + vector retrieval, temporal reasoning, importance-weighted decay, and multi-tenant namespacing. | [Documentation](https://github.com/dakera-ai/dakera-deploy) \| [GitHub](https://github.com/dakera-ai/dakera-deploy) |
 
 ## LLMOps
 
