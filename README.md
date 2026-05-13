@@ -335,6 +335,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Microsoft PromptWizard](https://github.com/microsoft/PromptWizard) | Task-Aware Prompt Optimization Framework. | [GitHub](https://github.com/microsoft/PromptWizard) |
 | [Promptify](https://github.com/promptslab/Promptify) | A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT. | [GitHub](https://github.com/promptslab/Promptify) |
 | [AutoPrompt](https://github.com/Eladlev/AutoPrompt) | A framework for prompt tuning using Intent-based Prompt Calibration. | [GitHub](https://github.com/Eladlev/AutoPrompt) |
+| [agent-opt](https://github.com/future-agi/agent-opt) | Open-source library for automated optimization of AI agent workflows. Evaluation-driven prompt and config tuning. | [GitHub](https://github.com/future-agi/agent-opt) |
 
 ## Other
 
