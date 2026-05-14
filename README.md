@@ -303,6 +303,8 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Memary](https://github.com/kingjulio8238/Memary) | Open Source Memory Layer For Autonomous Agents. | [GitHub](https://github.com/kingjulio8238/Memary) |
 | [Memobase](https://www.memobase.io/) | 1st User Profile-Based Memory for GenAI Apps. | [Documentation](https://docs.memobase.io/introduction) \| [GitHub](https://github.com/memodb-io/memobase) |
 
+| [Dakera](https://github.com/dakera-ai/dakera-deploy) | Production-ready persistent memory layer for AI agents: hybrid BM25 + vector retrieval, temporal reasoning, importance-weighted decay, and multi-tenant namespacing. | [Documentation](https://github.com/dakera-ai/dakera-deploy) \| [GitHub](https://github.com/dakera-ai/dakera-deploy) |
+
 ## LLMOps
 
 | **Project** | **Description** | **Links** |
