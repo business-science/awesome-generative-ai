@@ -114,6 +114,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [WrenAI](https://getwren.ai/oss) | Open-source GenBI AI Agent. Text2SQL made Easy! | [Documentation](https://docs.getwren.ai/oss/overview/introduction) \| [GitHub](https://github.com/Canner/WrenAI) |
 | [Google GenAI Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) | Gen AI Toolbox for Databases is an open-source server that makes it easier to build Gen AI tools for interacting with databases. | [Blog](https://cloud.google.com/blog/products/ai-machine-learning/announcing-gen-ai-toolbox-for-databases-get-started-today) \| [Documentation](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) \| [GitHub](https://github.com/googleapis/genai-toolbox) |
 | [Vanna AI](https://vanna.ai/) | The fastest way to get actionable insights from your SQL database just by asking questions. | [Documentation](https://vanna.ai/docs/) \| [GitHub](https://github.com/vanna-ai/vanna) |
+| [AI for Database](https://aifordatabase.com) | Connect to any database and query it in plain English. Self-refreshing dashboards and AI-powered workflows triggered by database changes. | [Website](https://aifordatabase.com) |
 
 ## Coding Agents
 
