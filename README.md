@@ -295,6 +295,8 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Agno (Formerly Phidata)](https://www.agno.com/) | An open-source platform to build, ship and monitor agentic systems. | [Documentation](https://docs.agno.com/) \| [GitHub](https://github.com/agno-agi/agno) |
 | [Composio](https://composio.dev/) | Integration Platform for AI Agents & LLMs (works with LangChain, CrewAI, etc). | [Documentation](https://docs.composio.dev/) \| [GitHub](https://github.com/ComposioHQ/composio) |
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)**: Free MCP server for AI agent trust scoring on Solana. Verify agent wallet identity before x402 micropayments. Tools: `score_agent`, `preflight_check` (free); `get_trust_receipt` (x402 paid). Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## LLM Memory
 
 | **Project** | **Description** | **Links** |
