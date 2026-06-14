@@ -254,6 +254,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Opik](https://github.com/comet-ml/opik) | Opik is an open-source platform for evaluating, testing, and monitoring LLM applications. | [GitHub](https://github.com/comet-ml/opik) |
 | [MLflow Tracing and Evaluation](https://mlflow.org/docs/latest/llms) | MLflow has a suite of features for LLMs. | [MLflow LLM Documentation](https://mlflow.org/docs/latest/llms) \| [Model Tracing](https://mlflow.org/docs/latest/llms/tracing/index.html) \| [Model Evaluation](https://mlflow.org/docs/latest/model-evaluation/index.html) \| [GitHub](https://github.com/mlflow/mlflow) |
 | [Langfuse](https://langfuse.com/) | Traces, evals, prompt management, and metrics to debug and improve your LLM application. | [Documentation](https://langfuse.com/docs) \| [GitHub](https://github.com/langfuse/langfuse) |
+| [Future AGI](https://github.com/future-agi/future-agi) | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. | [Documentation](https://docs.futureagi.com/) \| [GitHub](https://github.com/future-agi/future-agi) |
 
 ## Document Parsing
 
