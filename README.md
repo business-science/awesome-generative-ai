@@ -79,6 +79,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
+| [AI Weekly](https://aiweekly.co) | Independent AI news newsletter, 3x/week since 2015 for 44,000+ professionals — the few AI stories that matter, plus an 11-year archive. | [Website](https://aiweekly.co) |
 | 🚀🚀 [AI-Powered Data Science Team In Python](https://github.com/business-science/ai-data-science-team) | An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. | [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) \| [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) \| [GitHub](https://github.com/business-science/ai-data-science-team) |
 | 🚀 [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | LLM RAG AI Apps with Step-By-Step Tutorials. | [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 | [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) | Proof of concept for an AI-powered hedge fund. | [GitHub](https://github.com/virattt/ai-hedge-fund) |
