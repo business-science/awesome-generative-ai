@@ -80,6 +80,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
 | 🚀🚀 [AI-Powered Data Science Team In Python](https://github.com/business-science/ai-data-science-team) | An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. | [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) \| [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) \| [GitHub](https://github.com/business-science/ai-data-science-team) |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — | — | — |
 | 🚀 [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | LLM RAG AI Apps with Step-By-Step Tutorials. | [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 | [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) | Proof of concept for an AI-powered hedge fund. | [GitHub](https://github.com/virattt/ai-hedge-fund) |
 | [AI Financial Agent](https://github.com/virattt/ai-financial-agent) | A financial agent for investment research. | [GitHub](https://github.com/virattt/ai-financial-agent) |
