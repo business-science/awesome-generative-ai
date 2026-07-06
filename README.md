@@ -49,6 +49,8 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
   - [Document Parsing](#document-parsing)
   - [Web Parsing (HTML) and Web Crawling](#web-parsing-html-and-web-crawling)
   - [Agents and Tools (Build Your Own)](#agents-and-tools-build-your-own)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
   - [Agents and Tools (Prebuilt)](#agents-and-tools-prebuilt)
   - [LLM Memory](#llm-memory)
   - [LLMOps](#llmops)
