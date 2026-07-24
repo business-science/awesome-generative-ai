@@ -249,6 +249,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
+| [REFUTE](https://bgpt.pro/refute) | Judge-free scientific critique & epistemic calibration benchmark. Useful when data-science agents need an honesty check, not just task completion. | [Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) · [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) |
 | [LangSmith](https://smith.langchain.com/) | LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. | [Documentation](https://docs.smith.langchain.com/) \| [GitHub](https://github.com/langchain-ai/langsmith-sdk) |
 | [LangWatch](https://langwatch.ai/) | Monitor, Evaluate & Optimize your LLM performance with 1-click. Drag and drop interface for LLMOps platform. | [Documentation](https://docs.langwatch.ai/) \| [GitHub](https://github.com/langwatch/langwatch) |
 | [Opik](https://github.com/comet-ml/opik) | Opik is an open-source platform for evaluating, testing, and monitoring LLM applications. | [GitHub](https://github.com/comet-ml/opik) |
