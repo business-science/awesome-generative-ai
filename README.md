@@ -173,6 +173,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Google Gemini](https://github.com/google-gemini/generative-ai-python) | The official Python library for the Google Gemini API. | [GitHub](https://github.com/google-gemini/generative-ai-python) |
 | [Ollama](https://github.com/ollama/ollama) | Get up and running with large language models locally. | [GitHub](https://github.com/ollama/ollama) |
 | [Grok](https://github.com/groq/groq-python) | The official Python library for the Groq API. | [GitHub](https://github.com/groq/groq-python) |
+| [ModelBenchmark](https://modelbenchmark.io) | Specs, prices, benchmarks and lifecycle for 2,000+ AI models. | [Website](https://modelbenchmark.io) |
 
 ## Open Source LLM Models
 
