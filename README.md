@@ -261,8 +261,9 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 |-------------|------------------|-----------|
 | [LangChain Document Loaders](https://python.langchain.com/docs/concepts/document_loaders/) | LangChain has hundreds of integrations with various data sources to load data from: Slack, Notion, Google Drive, etc. | [Documentation](https://python.langchain.com/docs/concepts/document_loaders/) |
 | [Embedchain](https://embedchain.ai/) | Create an AI app on your own data in a minute. | [Documentation](https://docs.embedchain.ai/get-started/quickstart) \| [GitHub](https://github.com/mem0ai/mem0/tree/main/embedchain) |
-| [Docling by IBM](https://ds4sd.github.io/docling/) | Parse documents and export them to the desired format with ease and speed. | [GitHub](https://github.com/DS4SD/docling) |
+| [Docling by IBM](https://docling-project.github.io/docling/) | Parse documents and export them to the desired format with ease and speed. | [GitHub](https://github.com/docling-project/docling) |
 | [Markitdown by Microsoft](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | [GitHub](https://github.com/microsoft/markitdown) |
+| [file2markdown](https://www.file2markdown.ai/) | Browser-based converter for PDF, DOCX, PPTX, XLSX, HTML, EPUB and URLs to clean Markdown for RAG pipelines; free tier, MCP server for AI assistants. | [Website](https://www.file2markdown.ai/) \| [MCP docs](https://www.file2markdown.ai/mcp) |
 | [DocETL](https://www.docetl.org/) | A system for agentic LLM-powered data processing and ETL. | [Documentation](https://ucbepic.github.io/docetl/) \| [GitHub](https://github.com/ucbepic/docetl) |
 | [Unstructured.io](https://unstructured.io/) | Unstructured provides a platform and tools to ingest and process unstructured documents for Retrieval Augmented Generation (RAG) and model fine-tuning. | [Documentation](https://docs.unstructured.io/welcome) \| [GitHub](https://github.com/Unstructured-IO/unstructured) \| [Paper](https://www.iarpa.gov/images/PropsersDayPDFs/BENGAL/Unstructured.io%20Federal%20Capabilities%20Statement%20for%20IARPA.pdf) |
 
